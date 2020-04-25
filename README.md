@@ -1,0 +1,2 @@
+# scala
+Just learning scala
